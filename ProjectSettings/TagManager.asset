@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - arrow
+  - rollingdoor
+  - Audio
+  - trap
+  - ice_bullet
+  - player
+  - atkArea
+  - head
+  - ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: New Layer 1
+    uniqueID: 4128006145
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 3237848659
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 889057981
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 940520473
+    locked: 0
